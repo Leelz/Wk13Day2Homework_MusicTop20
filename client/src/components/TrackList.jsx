@@ -15,9 +15,7 @@ var TrackList = React.createClass({
 
     return (
       <div>
-        <ul>
           {tracks}
-        </ul>
       </div>
       )
   }
